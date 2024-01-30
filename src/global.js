@@ -1,0 +1,1 @@
+export const API="https://email-backend-ocls.onrender.com"
